@@ -1,19 +1,7 @@
 {
   "channel": "cats_cats",
-  "updated_at": "2026-11-15T22:30:30+08:00",
+  "updated_at": "2026-11-16T00:00:39+08:00",
   "posts": [
-    {
-      "message_id": 53413,
-      "text": "Шаи-Хулуд",
-      "posted_at": "2026-11-12T00:47:39+08:00",
-      "url": "https://t.me/cats_cats/53413"
-    },
-    {
-      "message_id": 53414,
-      "text": "Ета просто беспредел!!!!!",
-      "posted_at": "2026-11-12T02:35:58+08:00",
-      "url": "https://t.me/cats_cats/53414"
-    },
     {
       "message_id": 53415,
       "text": "Состояние",
@@ -103,6 +91,18 @@
       "text": "Шах и мат!!!!!!",
       "posted_at": "2026-11-15T17:24:36+08:00",
       "url": "https://t.me/cats_cats/53432"
+    },
+    {
+      "message_id": 53433,
+      "text": "Стакан с капучина",
+      "posted_at": "2026-11-15T22:32:19+08:00",
+      "url": "https://t.me/cats_cats/53433"
+    },
+    {
+      "message_id": 53434,
+      "text": "Лапковый беспредел",
+      "posted_at": "2026-11-15T23:29:42+08:00",
+      "url": "https://t.me/cats_cats/53434"
     }
   ]
 }
