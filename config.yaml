@@ -31,8 +31,9 @@ publish:
   dry_run: false
   # buffer | command | http | dry_run
   target: "buffer"
-  # XjianglinX 已开通蓝 V（X Premium），单条上限 25000 字，不再截断
-  max_len: 25000
+  # CatX1t 未开通蓝 V：X 单条硬上限 280 计权字符，超长用 _clip_weighted 按句末省略号截断
+  # （2026-11-18 修：原 25000 是照抄 tg2x 蓝V配置，导致超 280 的译文被 Buffer 拒绝）
+  max_len: 280
   # 发文是否带上 Telegram 原文链接（false = 只发正文，不带链接）
   include_source_link: false
 
